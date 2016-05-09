@@ -9,7 +9,7 @@ Requirements :
 Usage :
 =============
 0. Clone repository : `git clone https://github.com/mpolcik/VagrantApache.git`
-0. Enter VagrantApache directory and run : `vagrant up`
+0. Enter VagrantApache directory and run : `vagrant up` - wait for process to finish
 0. Content from `html/` directory is now at : `localhost:8080`
 
 Content :
